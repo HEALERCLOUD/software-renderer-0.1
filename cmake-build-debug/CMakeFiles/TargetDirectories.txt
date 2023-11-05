@@ -1,0 +1,3 @@
+/Users/lukaakhaladze/Desktop/software_renerer_0.1/cmake-build-debug/CMakeFiles/software_renerer_0_1.dir
+/Users/lukaakhaladze/Desktop/software_renerer_0.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lukaakhaladze/Desktop/software_renerer_0.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

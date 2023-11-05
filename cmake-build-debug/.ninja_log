@@ -1,0 +1,6 @@
+# ninja log v5
+0	453	1699209401284350089	CMakeFiles/software_renerer_0_1.dir/main.cpp.o	ca143697cb3c440a
+454	490	1699209401323254003	software_renerer_0_1	a732292742b02b02
+5	462	1699209582883075272	CMakeFiles/software_renerer_0_1.dir/main.cpp.o	ca143697cb3c440a
+6	462	1699209582883074939	CMakeFiles/software_renerer_0_1.dir/functions.cpp.o	564440bff34e764
+462	498	1699209582921962895	software_renerer_0_1	7bc8dea79441592e
