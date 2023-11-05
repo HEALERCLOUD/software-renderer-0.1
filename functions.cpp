@@ -7,4 +7,5 @@
 void print(int input)
 {
     std::cout<<input;
+    //nothing
 }
